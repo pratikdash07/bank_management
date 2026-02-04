@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # bank_management
-=======
+
 # Bank Management System
 
 Small CLI-based bank management prototype. Features:
