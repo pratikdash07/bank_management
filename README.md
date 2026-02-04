@@ -17,4 +17,3 @@ python main.py
 
 Notes:
 - This repo is a learning prototype. Do not use in production (PINs stored as plaintext).
->>>>>>> 8e29462 (Bank Management System--OOPS)
